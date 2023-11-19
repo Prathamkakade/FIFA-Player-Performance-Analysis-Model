@@ -1,7 +1,7 @@
 # FIFA-Player-Performance-Analysis-Model
 
 FIFA Player Analysis - README
-This Python code is intended for analyzing FIFA 2018 player data. It performs various data analysis and visualization tasks using popular libraries like Pandas, Matplotlib, Seaborn, and Numpy. Below is an explanation of what each section of the code does:
+This Python code is intended for analyzing FIFA 2018 player data. It performs various data analysis and visualization tasks using popular libraries like Pandas, Matplotlib, Seaborn, and Numpy. Below is an explanation of what each section of the code does:-
 
 Data Import and Exploration
 The code starts by importing necessary libraries and reading a CSV file named "data-1.csv" using Pandas to create a DataFrame (df).
